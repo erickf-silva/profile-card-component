@@ -19,7 +19,7 @@ Esta é uma solução para o desafio Profile card component no Frontend Mentor,
 
 ## Links
 
-- Site do desafio do Frontend Mentor: [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+- Desafio do Frontend Mentor: [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
 ## Tecnologias utilizadas
 
